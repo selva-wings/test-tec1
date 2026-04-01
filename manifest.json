@@ -1,16 +1,17 @@
 {
   "node_id": "connector-root",
   "node_name": "Connector-Hierarchy",
-  "generated_at": "2026-04-01T10:52:27.360Z",
+  "generated_at": "2026-04-01T10:54:52.367Z",
   "generator": "WingzAI-Auth-Server",
   "missions": {
     "TEC": "a4a786bc-c168-4aef-88ec-baf894438edd"
   },
   "testcases": {
-    "TEC": "a4a786bc-c168-4aef-88ec-baf894438edd"
+    "TEC": "a4a786bc-c168-4aef-88ec-baf894438edd",
+    "rest": "5810d3e0-cbea-44ac-b6e4-a28cd1524ef6"
   },
   "source_stats": {
-    "total_nodes": 1,
+    "total_nodes": 2,
     "root_count": 1
   }
 }
